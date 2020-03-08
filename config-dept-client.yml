@@ -43,7 +43,7 @@ spring:
     datasource:
     type: com.alibaba.druid.pool.DruidDataSource      # 当前数据源操作类型
     driver-class-name: com.mysql.cj.jdbc.Driver       # mysql驱动包
-    url: jdbc:mysql://localhost:3306/cloud_db2?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai    # 数据库名称
+    url: jdbc:mysql://localhost:3306/cloud_db02?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai    # 数据库名称
     username: root1809
     password: root1809
     dbcp2:
